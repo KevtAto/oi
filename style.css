@@ -1,0 +1,46 @@
+body{
+    background-image: url(/assets/bgp.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.name {
+    font-size: 20px;
+    color: azure;
+    text-decoration: underline;
+    text-align: center;
+}
+.pic {
+    height: 420px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.pic-container{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: azure ;
+    text-align: center;
+}
+p {
+    border: 1px solid brown; 
+    color: azure;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+button{
+    background-color: goldenrod;
+    color: azure;
+    border-radius: 10px;
+    justify-content: center;
+    align-content: center;
+   display: flex;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
